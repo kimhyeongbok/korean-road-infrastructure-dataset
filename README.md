@@ -5,9 +5,7 @@
 [![Download](https://img.shields.io/badge/Download-Full-blue?style=for-the-badge&logo=github)](https://forms.gle/HFojMyLaLR9CSA6Q7)
 
 
-This repository provides a comprehensive dataset of road infrastructure across various regions of South Korea. 
-_**"Large-Scale Nationwide Korean Road Infrastructure Dataset for Comprehensive Road Facility Recognition for Comprehensive Road Facility Recognition"**_
-Below, you can find details on how to access sample data, cite the dataset, and read our accompanying paper. 
+This repository provides a comprehensive dataset of road infrastructure across various regions of South Korea. Below, you can find details on how to access sample data, cite the dataset, and read our accompanying paper. _**"Large-Scale Nationwide Korean Road Infrastructure Dataset for Comprehensive Road Facility Recognition for Comprehensive Road Facility Recognition"**_
 
 
 ![Road Infrastructure Image](img/main.png)
