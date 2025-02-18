@@ -45,12 +45,13 @@ Topics covered:
 - Results, analysis, and future directions
 
 ---
+## Full Data Download Request
+In order to access our dataset, you must first agree to the terms and conditions by completing a brief survey provided [here](https://forms.gle/HFojMyLaLR9CSA6Q7). You will receive the download link shortly after the approval process is completed.
 
-
-License
+## License
 This dataset is released under **CC-BY-NC-SA** license.
 
-Citation
+## Citation
 If you use this dataset or any subset in your research, please cite:
 @misc{kim2025road,
   title   = {Large-Scale Nationwide Korean Road Infrastructure Dataset 
