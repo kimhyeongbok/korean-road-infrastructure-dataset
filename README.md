@@ -2,5 +2,6 @@
 korean-road-infrastructure-dataset Description
 
 
-You can download sample dataset file **480MB** here(google drive).https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link
-You can download sample dataset file **480MB** [here](https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link) (Google Drive).
+
+You can download sample dataset file **480MB** [here (Google Drive)](https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link).
+ 
