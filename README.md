@@ -2,7 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-UnderReview-black?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link)
 [![Download](https://img.shields.io/badge/Download-Sample(480MB)-blue?style=for-the-badge&logo=databricks)](https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link)
-[![Download](https://img.shields.io/badge/Download-Full-blue?style=for-the-badge&logo=github)]([https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link](https://forms.gle/HFojMyLaLR9CSA6Q7))
+[![Download](https://img.shields.io/badge/Download-Full-blue?style=for-the-badge&logo=github)](https://forms.gle/HFojMyLaLR9CSA6Q7)
 
 
 This repository provides a comprehensive dataset of road infrastructure across various regions of South Korea. 
