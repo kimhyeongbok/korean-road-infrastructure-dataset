@@ -32,8 +32,7 @@ We have provided a **480MB** sample dataset for quick exploration.
 
 - **[Download Sample Dataset (Google Drive)](https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link)**
 
-This sample includes a subset of images and annotations (bounding boxes + polygons), along with a JSON file in a COCO-like format.  
-**De-identification** is applied to ensure privacy (faces, license plates, etc. are blurred).
+This sample includes a subset of images and annotations (bounding boxes + polygons), along with a JSON file. 
 
 ---
 
