@@ -48,7 +48,7 @@ Topics covered:
 
 
 License
-This dataset is released under CC-BY-NC-SA license.
+This dataset is released under **CC-BY-NC-SA** license.
 
 Citation
 If you use this dataset or any subset in your research, please cite:
