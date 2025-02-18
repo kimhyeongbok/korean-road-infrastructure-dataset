@@ -39,40 +39,6 @@ Topics covered:
 
 ---
 
-## Dataset Structure
-The dataset follows a COCO-like structure:
-```jsonc
-{
-  "images": [
-    {
-      "id": 1001,
-      "file_name": "image_1001.jpg",
-      "width": 3328,
-      "height": 1872,
-      "latitude": 37.12345,
-      "longitude": 127.12345,
-      // ...
-    }
-  ],
-  "annotations": [
-    {
-      "id": 90000,
-      "image_id": 1001,
-      "category_id": 4,
-      "bbox": [x, y, w, h],
-      "segmentation": [[x1, y1, x2, y2, ...]],
-      "roadtype": "highway",
-      "regiontype": "city",
-      // ...
-    }
-  ],
-  "categories": [
-    { "id": 4, "name": "guardrail" },
-    // ...
-  ]
-}
-
-
 
 License
 This dataset is released under CC-BY-NC-SA license.
