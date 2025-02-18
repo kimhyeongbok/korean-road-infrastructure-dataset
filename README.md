@@ -22,7 +22,7 @@ We collected over two million high-resolution (3328×1872) frames using nine sur
 - **34 distinct facility types** (e.g., traffic signals, guardrails, tunnels, etc.)
 - **2,676,583 labeled instances** (bounding boxes and polygon annotations)
 - Coverage of **highways, national roads, and local roads** in both **city and non-city** areas
-
+![Road Infrastructure Image](img/map.png)
 The dataset supports tasks such as object detection and segmentation, aiming to advance road safety asset management, intelligent transportation systems, and autonomous driving research.
 
 ---
