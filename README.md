@@ -29,7 +29,7 @@ This sample includes a subset of images and annotations (bounding boxes + polygo
 ## Paper
 For more details on our methodology, data acquisition, annotation guidelines, and benchmark experiments, please refer to our paper:
 
-- **[View Full Paper (PDF)](YOUR_PAPER_LINK)**
+- **[View Full Paper (PDF)](Now Under Review)**
 
 Topics covered:
 - Data collection procedure (vehicles, cameras, GPS time sync)
