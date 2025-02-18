@@ -1,7 +1,7 @@
 # Large-Scale Nationwide Korean Road Infrastructure Dataset for Comprehensive Road Facility Recognition for Comprehensive Road Facility Recognition
 
-[![Paper](https://img.shields.io/badge/Paper-UnderReview-blue?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link)
-[![Download](https://img.shields.io/badge/Download-Sample(480MB)-green?style=for-the-badge&logo=databricks)](https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link)
+[![Paper](https://img.shields.io/badge/Paper-UnderReview-black?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link)
+[![Download](https://img.shields.io/badge/Download-Sample(480MB)-blue?style=for-the-badge&logo=databricks)](https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link)
 [![Download](https://img.shields.io/badge/Download-Full-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1BAdLggaiQaVZGeg28dY7paguXNcEV-lX/view?usp=drive_link)
 
 
