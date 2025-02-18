@@ -53,6 +53,7 @@ This dataset is released under **CC-BY-NC-SA** license.
 
 ## Citation
 If you use this dataset or any subset in your research, please cite:
+
 @misc{kim2025road,
   title   = {Large-Scale Nationwide Korean Road Infrastructure Dataset 
              for Comprehensive Road Facility Recognition},
