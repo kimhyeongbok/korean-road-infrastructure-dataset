@@ -52,8 +52,12 @@ Topics covered:
 ## Full Data Download Request
 In order to access our dataset, you must first agree to the terms and conditions by completing a brief survey provided [here](https://forms.gle/HFojMyLaLR9CSA6Q7). You will receive the download link shortly after the approval process is completed.
 
+---
+
 ## License
 This dataset is released under **CC-BY-NC-SA** license.
+
+---
 
 ## Citation
 If you use this dataset or any subset in your research, please cite:
