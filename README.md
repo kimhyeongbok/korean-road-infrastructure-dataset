@@ -56,9 +56,9 @@ In order to access our dataset, you must first agree to the terms and conditions
 ## License
 This dataset is released under the Creative Commons Attribution-NonCommercial-ShareAlike **(CC-BY-NC-SA)** license. 
 This means you are free to share and adapt this dataset, under the following conditions:
-Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-NonCommercial: You may not use the material for commercial purposes.
-ShareAlike: If you remix, transform, or build upon the dataset, you must distribute your contributions under the same license as the original.
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial: You may not use the material for commercial purposes.
+- ShareAlike: If you remix, transform, or build upon the dataset, you must distribute your contributions under the same license as the original.
 For more detailed information on what is permitted and what is not, please refer to the official Creative Commons license summary.
 
 ---
