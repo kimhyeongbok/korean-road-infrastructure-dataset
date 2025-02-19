@@ -20,11 +20,11 @@ This paper presents a large-scale, nationwide Korean road infrastructure dataset
 ## Introduction
 We collected over two million high-resolution (3328×1872) frames using nine survey vehicles equipped with camera and GPS sensors. From these, 200,000 frames were refined and annotated with:
 - **34 distinct facility types** (e.g., traffic signals, guardrails, tunnels, etc.)
-![Road Facility](img/Road Facility.png)
+![Road Facility](img/Road_Facility.png)
 - **2,676,583 labeled instances** (bounding boxes and polygon annotations)
 - Coverage of **highways, national roads, and local roads** in both **city and non-city** areas
 ![Coverage of Road](img/map.png)
-![Region Distribution](img/Region Distribution.png)
+![Region Distribution](img/Region_Distribution.png)
 The dataset supports tasks such as object detection and segmentation, aiming to advance road safety asset management, intelligent transportation systems, and autonomous driving research.
 
 ---
