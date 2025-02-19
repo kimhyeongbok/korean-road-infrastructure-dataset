@@ -13,16 +13,18 @@ This repository provides a comprehensive dataset of road infrastructure across v
 ---
 
 ## Abstract
-This paper presents a large-scale, nationwide Korean road infrastructure dataset designed to support robust AI-driven road facility recognition. We collected over two million high-resolution (3328×1872) frames using nine survey vehicles equipped with camera and GPS sensors, covering a diverse range of highways, national roads, and local roads across both city and non-city regions. From this, we refined 200,000 frames, annotating 2,676,583 instances spanning 34 facility types—19 requiring bounding boxes (e.g., traffic signals, delineator signs) and 15 necessitating polygon-based segmentation (e.g., guardrails, tunnels). Rigorous quality assurance measures were implemented, including de-identification of personal data and a two-layer annotation review process. Benchmark experiments with YOLO v4 and YOLO v5 demonstrated a bounding-box mAP of 70.57\% and a segmentation mAP of 60.20\%, underscoring the dataset’s utility for complex road infrastructure tasks. By encapsulating a wide variety of environmental contexts and facility types, this dataset enables advanced applications in road safety asset management, intelligent transportation systems, and autonomous driving research. Furthermore, the dataset has been made publicly accessible via AI Hub (\url{https://www.aihub.or.kr/}), fostering broader innovation and collaboration in the AI community.
+This paper presents a large-scale, nationwide Korean road infrastructure dataset designed to support robust AI-driven road facility recognition. We collected over two million high-resolution (3328×1872) frames using nine survey vehicles equipped with camera and GPS sensors, covering a diverse range of highways, national roads, and local roads across both city and non-city regions. From this, we refined 200,000 frames, annotating 2,676,583 instances spanning 34 facility types—19 requiring bounding boxes (e.g., traffic signals, delineator signs) and 15 necessitating polygon-based segmentation (e.g., guardrails, tunnels). Rigorous quality assurance measures were implemented, including de-identification of personal data and a two-layer annotation review process. Benchmark experiments with YOLO v4 and YOLO v5 demonstrated a bounding-box mAP of 70.57\% and a segmentation mAP of 60.20\%, underscoring the dataset’s utility for complex road infrastructure tasks. By encapsulating a wide variety of environmental contexts and facility types, this dataset enables advanced applications in road safety asset management, intelligent transportation systems, and autonomous driving research. Furthermore, the dataset has been made publicly accessible via AI Hub (https://www.aihub.or.kr/), fostering broader innovation and collaboration in the AI community.
 
 ---
 
 ## Introduction
 We collected over two million high-resolution (3328×1872) frames using nine survey vehicles equipped with camera and GPS sensors. From these, 200,000 frames were refined and annotated with:
 - **34 distinct facility types** (e.g., traffic signals, guardrails, tunnels, etc.)
+![Road Facility](img/Road Facility.png)
 - **2,676,583 labeled instances** (bounding boxes and polygon annotations)
 - Coverage of **highways, national roads, and local roads** in both **city and non-city** areas
 ![Coverage of Road](img/map.png)
+![Region Distribution](img/Region Distribution.png)
 The dataset supports tasks such as object detection and segmentation, aiming to advance road safety asset management, intelligent transportation systems, and autonomous driving research.
 
 ---
