@@ -68,7 +68,7 @@ For more detailed information on what is permitted and what is not, please refer
 ---
 
 ## Citation
-If you use this dataset or any subset in your research, please cite:
+(Our paper is currently under review) If you use this dataset or any subset in your research, please cite:
 ```
 @misc{kim2025road,
   title   = {Large-Scale Nationwide Korean Road Infrastructure Dataset 
