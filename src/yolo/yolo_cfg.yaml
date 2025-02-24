@@ -1,0 +1,42 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: path/to/data # dataset root dir (absolute or relative; if relative, it's relative to default datasets_dir)
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+test: # test images (optional)
+
+# Classes 
+names:
+    0: Pillar,
+    1: CrossBeam,
+    2: DelineatorSign,
+    3: SeagullMark,
+    4: RaisedPavementMarker,
+    5: ObstacleMarker,
+    6: HatchedMarkings,
+    7: DelineatorPost,
+    8: Lighting,
+    9: RoadReflector,
+    10: SpeedBump,
+    11: MedianDivider,
+    12: GuardRail,
+    13: ImpactAbsorber,
+    14: Rock-FallNet,
+    15: Rock-FallFence,
+    16: Rock-FallProtectionWall,
+    17: Eco-Engineering,
+    18: Bridge,
+    19: Tunnel,
+    20: Underpass,
+    21: ElevatedRoad,
+    22: Interchange,
+    23: UndergroundPassage,
+    24: OverpassWalkway,
+    25: BusStop,
+    26: TrafficSignal,
+    27: Road Sign,
+    28: SafetySign,
+    29: Road Nameplate,
+    30: EmergencyContactFacility,
+    31: CCTV,
+    32: VariableMessageSign,
+    33: RoadGuidepost,
