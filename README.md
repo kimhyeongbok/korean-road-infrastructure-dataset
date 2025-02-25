@@ -84,7 +84,7 @@ To convert the dataset to YOLO format, run:
 python3 convert_to_yolo.py
 ```
 
-
+---
 
 ## License
 This dataset is released under the Creative Commons Attribution-NonCommercial-ShareAlike **(CC-BY-NC-SA)** license. 
