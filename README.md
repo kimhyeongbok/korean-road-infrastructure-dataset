@@ -114,5 +114,5 @@ If you use this dataset or any subset in your research, please cite:
 ---
 
 ## See our other benchmarks
-**SideGuide** : https://ytaek-oh.github.io/sideguide
-KSL :- **[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9667011&casa_token=zyEKXJS-_sAAAAAA:dX9P6xi3GU09m88bAaLnM-ddaAo4OnEvI2GNlIeWJLUm3C5HCrBtHaj0iLqF6KdSrz9SmO63my0&tag=1)**
+**(SideGuide)** A Large-scale Sidewalk Dataset for Guiding Impaired People : https://ytaek-oh.github.io/sideguide
+**(KSL)** A Large-scale Korean Sign Language Dataset Including Interrogative Sentences for Guiding the Deaf and Hard-of-Hearing : **[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9667011&casa_token=zyEKXJS-_sAAAAAA:dX9P6xi3GU09m88bAaLnM-ddaAo4OnEvI2GNlIeWJLUm3C5HCrBtHaj0iLqF6KdSrz9SmO63my0&tag=1)**
