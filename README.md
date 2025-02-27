@@ -113,5 +113,5 @@ If you use this dataset or any subset in your research, please cite:
 ```
 ---
 
-## See our benchmarks
+## See our other benchmarks
 **SideGuide** : https://ytaek-oh.github.io/sideguide
