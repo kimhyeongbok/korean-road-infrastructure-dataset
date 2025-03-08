@@ -102,7 +102,7 @@ For more detailed information on what is permitted and what is not, please refer
 If you use this dataset or any subset in your research, please cite:
 ```
 @misc{kim2025road,
-  title   = {Large-Scale Nationwide Korean Road Infrastructure Dataset 
+  title   = {KRID: A Large-Scale Nationwide Korean Road Infrastructure Dataset 
              for Comprehensive Road Facility Recognition},
   author  = {Kim, Hyeongbok and Kim, Eunbi and Ahn, Sanghoon and Kim, Beomjin 
              and Kim, Sung Jin and Sung, Tae Kyung and Zhao, Lingling 
