@@ -109,7 +109,6 @@ VOLUME = {10},
 YEAR = {2025},
 NUMBER = {3},
 ARTICLE-NUMBER = {36},
-URL = {https://www.mdpi.com/2306-5729/10/3/36},
 ISSN = {2306-5729},
 DOI = {10.3390/data10030036}
 }
