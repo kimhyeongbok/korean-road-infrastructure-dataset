@@ -101,14 +101,19 @@ For more detailed information on what is permitted and what is not, please refer
 (Our paper is currently under review) 
 If you use this dataset or any subset in your research, please cite:
 ```
-@misc{kim2025road,
-  title   = {KRID: A Large-Scale Nationwide Korean Road Infrastructure Dataset 
-             for Comprehensive Road Facility Recognition},
-  author  = {Kim, Hyeongbok and Kim, Eunbi and Ahn, Sanghoon and Kim, Beomjin 
-             and Kim, Sung Jin and Sung, Tae Kyung and Zhao, Lingling 
-             and Su, Xiaohong and Dong, Gilmu},
-  year    = {2025},
+@Article{data10030036,
+AUTHOR = {Kim, Hyeongbok and Kim, Eunbi and Ahn, Sanghoon and Kim, Beomjin and Kim, Sung Jin and Sung, Tae Kyung and Zhao, Lingling and Su, Xiaohong and Dong, Gilmu},
+TITLE = {KRID:A Large-Scale Nationwide Korean Road Infrastructure Dataset for Comprehensive Road Facility Recognition},
+JOURNAL = {Data},
+VOLUME = {10},
+YEAR = {2025},
+NUMBER = {3},
+ARTICLE-NUMBER = {36},
+URL = {https://www.mdpi.com/2306-5729/10/3/36},
+ISSN = {2306-5729},
+DOI = {10.3390/data10030036}
 }
+
 
 ```
 ---
